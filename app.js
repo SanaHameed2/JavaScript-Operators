@@ -1,3 +1,14 @@
+// Arithmetic Operator: Art Painting Cost Calculation
+
+let canvasCost = 500;      // Cost of canvas in dollars
+let paintCost = 300;       // Cost of paints
+let frameCost = 2200;       // Cost of frame
+
+// Total cost calculation using addition (+)
+let totalPaintingCost = canvasCost + paintCost + frameCost;
+
+console.log("Total Painting Cost: Rs", totalPaintingCost);
+
 // === Assignment Operator: Stocks ===
 // Managing stock shares using assignment operators.
 // We start with an initial number of shares,
