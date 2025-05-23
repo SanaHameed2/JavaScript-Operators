@@ -1,6 +1,6 @@
 // Arithmetic Operator: Art Painting Cost Calculation
 
-let canvasCost = 500;      // Cost of canvas in dollars
+let canvasCost = 500;      // Cost of canvas in PKR
 let paintCost = 300;       // Cost of paints
 let frameCost = 2200;       // Cost of frame
 
